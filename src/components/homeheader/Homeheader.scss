@@ -1,0 +1,44 @@
+.homeheader{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../../public/homeheader1.png);
+    img{
+        width: 100%;
+        height: 100%;
+        position: relative;
+
+    }
+    .headerdiv{
+        margin-top: 300px;
+        width: 519px;
+        height: 227px;
+        flex-shrink: 0;
+        font-style: normal;
+        background: #e4d2bb;
+        position: absolute;
+        margin-bottom: 300px;
+        padding: 30px;
+        right: 40px;
+        border-radius: 2px;
+
+
+        h2{
+            color: #B88E2F;
+            font-size: 36px;
+            margin-top: 10px;
+
+        }
+        button{
+            background-color: #B88E2F;
+            color: white;
+            display: inline-flex;
+            padding: 21px 52px;
+            align-items: flex-start;
+            gap: 10px;
+            border: none;
+            border-radius: 3px;
+            margin-top: 10px;
+        }
+    }
+    
+}

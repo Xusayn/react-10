@@ -1,0 +1,68 @@
+{
+    "cards":[
+        {
+        "id":"1",
+        "img": "./public/json1.png",
+        "bir":"Syltherine",
+        "ikki":"Stylish cafe chair",
+        "uch" :"1500000",
+        "skid":"3500000"
+        
+        },
+        {
+            "id":"2",
+            "img": "./public/json5.png",
+            "bir":"Leviasa",
+            "ikki":"stylish cafe chair",
+            "uch" :"4000000"
+            },
+            {
+                "id":"3",
+                "img": "./public/json3.png",
+                "bir":"Lolito",
+                "ikki":"Luxury big sofa",
+                "uch" :"1500000"
+                },
+                {
+                    "id":"4",
+                    "img": "./public/json4.png",
+                    "bir":"Respira",
+                    "ikki":"Outdoor bar table and stool",
+                    "uch" :"500000",
+                    "skid":"4000000"
+
+                    },
+                    {
+                        "id":"5",
+                        "img": "./public/json5.png",
+                        "bir":"Grifo",
+                        "ikki":"Night lamp",
+                        "uch" :"1500000"
+                        },
+                        {
+                            "id":"6",
+                            "img": "./public/json6.png",
+                            "bir":"Muggo",
+                            "ikki":"Small mug",
+                            "uch" :"4000000",
+                            "skid":"  22000000"
+
+                            },
+                            {
+                                "id":"7",
+                                "img": "./public/json7.png",
+                                "bir":"Pingky",
+                                "ikki":"Cute bed set",
+                                "uch" :"4000000"
+                                },
+                                {
+                                    "id":"8",
+                                    "img": "./public/json8.png",
+                                    "bir":"Potty",
+                                    "ikki":"Minimalist flower pot",
+                                    "uch" :"1500000"
+                                    }
+
+        
+    ]
+}

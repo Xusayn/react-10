@@ -1,0 +1,56 @@
+.homesection2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    .cards{
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        justify-content: center;
+        gap: 20px;
+        .card{
+            display: flex;
+            flex-direction: column;
+            margin-top: 40px;
+            width: 300px;
+            height: 400px;
+            gap: 10px;
+            .skidok{
+                width: 100%;
+                display: flex;
+                justify-content: start;
+                gap: 30px;
+                .gray{
+                    color: gray;
+                    font-size: 18px;
+                }
+            }
+        }
+        
+    }
+    .btn{
+        width: 120px;
+        height: 50px;
+        color : #B88E2F;
+        border: 2px solid #B88E2F;
+        margin-top: 400px;
+    }
+    .sort{
+        width: 200px;
+        height: 80px;
+    }
+}
+.all, .exp,.chep{
+    width: 170px;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.sort{
+    margin-top: 40px;
+    margin-left: 130px;  
+}
